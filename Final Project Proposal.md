@@ -32,7 +32,6 @@ I have two main hypothesis that I will be analyzing in this project:
     1.2 Is there a relationship between student aid and the percentage of women participating in women's teams?  
     1.3 Does the amount of student aid affect recruiting expenses? And what about the expenses per participant and per team?  
     1.4 Do institutes that assign a higher amount of aid to women's teams have higher revenue for their women's teams?    
-<br>
 
 2. **H2: Working under the assumption that women's teams are not given the same importance, I would say that they are not given the same resources in terms of coaching staff.**  
 
