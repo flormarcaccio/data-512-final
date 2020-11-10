@@ -5,11 +5,11 @@
 
 ## Table of Contents
 1. [Motivation and problem statement](#motivation)
-2. [Data](#data)
-3. [Unknowns and dependencies](#unknowns)
-4. [Research questions and/or hypotheses](#research_questions)
+2. [Research questions and/or hypotheses](#research_questions)
+3. [Data](#data)
+4. [Metodology](#metodology)
 5. [Background/Related Work](#background)
-6. [Metodology](#metodology)
+6. [Unknowns and dependencies](#unknowns)
 
 
 
