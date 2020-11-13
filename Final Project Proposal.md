@@ -32,11 +32,11 @@ I have two main hypothesis that I will be analyzing in this project:
     1.2 Is there a relationship between student aid and the percentage of women participating in women's teams?  
     1.3 Does the amount of student aid affect recruiting expenses? And what about the expenses per participant and per team?   
     1.4 Do institutes that assign a higher amount of aid to women's teams have higher revenue for their women's teams?  
-    1.5 Does being an institution with football affect the ratio of of financial aid given to women's teams?    
+    1.5 Does having a men's football team affect the ratio of of financial aid given to women's teams?    
 
-2. **H2: Working under the assumption that women's teams are not given the same importance, I would say that they are not given the same resources in terms of coaching staff.**  
+2. **H2: Women's teams are not given the same resources in terms of coaching staff.**  
 
-    2.1 How many head coaches for women's and men's teams? How many assistant coaches for women's and men's teams?  
+    2.1 How many head coaches are there for women's and men's teams? How many assistant coaches for women's and men's teams?  
     2.2 What percentage of head/assistant coaches in men's teams are women, and what percentage of head/assistant coaches in women's teams are men?  
     2.3 Is there a difference in salary between coaches in women's teams vs coaches in men's teams?
   
@@ -46,7 +46,8 @@ I have two main hypothesis that I will be analyzing in this project:
  
 The dataset I'll use for this project contains 2074 US educational institutions with athletic programs that received federal student financial aid for the 2018-19 academic year. It has data on students' athletic participation, and staffing, revenues, and expenses by men's and women's teams.  
   
-The dataset can be found in the [Download Data](https://ope.ed.gov/athletics/#/datafile/list) page of the [Equity in Athletics Data Analysis](https://ope.ed.gov/athletics/) website. The chosen data can be found under the year 2019, with the title "All data combined for academic year 2018-19". This will download a zip file with four files, of which I will use "EADA_2019.xlsx" and "EADA_2019.doc" (data and description, respectively). While there is no specified license, the dataset belongs under the [Equity in Athletics Disclosure Act](https://www2.ed.gov/finaid/prof/resources/athletics/eada.html) and was released to the public by the US Department of Education.  
+The dataset can be found in the [Download Data](https://ope.ed.gov/athletics/#/datafile/list) page of the [Equity in Athletics Data Analysis](https://ope.ed.gov/athletics/) website. The chosen data can be found under the year 2019, with the title "All data combined for academic year 2018-19". The data downloaded is already in this repository: ["EADA_2019.xlsx"](data/EADA_2019.xlsx) (data) and ["EADA_2019.doc"](data/EADA_2019.doc) (data description).  
+While there is no specified license, the dataset belongs under the [Equity in Athletics Disclosure Act](https://www2.ed.gov/finaid/prof/resources/athletics/eada.html) and was released to the public by the US Department of Education.  
 
 This dataset is suitable for addressing the project goal as I can link the amount of resources and financial aid that women's and men's teams receive with how much university support they have. This will potentially disclose any unfair or biased treatment.  
 
